@@ -1,0 +1,4 @@
+creditcoin
+==========
+
+Cryptocurrency coin
